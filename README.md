@@ -1,0 +1,2 @@
+# mode.py
+finding mode
