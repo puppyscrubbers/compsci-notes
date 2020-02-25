@@ -1,2 +1,2 @@
-# mode.py
+# yoo
 finding mode
